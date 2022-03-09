@@ -21,11 +21,11 @@
     <edmx:Reference Uri="../../catalogservice;v=2/Vocabularies(TechnicalName='%2FIWBEP%2FVOC_HTML5',Version='0001',SAP__Origin='')/$value">
         <edmx:Include Namespace="com.sap.vocabularies.HTML5.v1" Alias="HTML5"/>
     </edmx:Reference>
-    <edmx:Reference Uri="../../../sap/zma0_sfut_plant_data_ui_o2/$metadata">
-        <edmx:Include Namespace="ZMA0_SFUT_PLANT_DATA_UI_O2" Alias="SAP"/>
+    <edmx:Reference Uri="../../../sap/zma0_sfut_plant_ui_o2/$metadata">
+        <edmx:Include Namespace="ZMA0_SFUT_PLANT_UI_O2" Alias="SAP"/>
     </edmx:Reference>
     <edmx:DataServices>
-        <Schema Namespace="zma0_sfut_plant_data_ui_o2_van.v1" xmlns="http://docs.oasis-open.org/odata/ns/edm">
+        <Schema Namespace="zma0_sfut_plant_ui_o2_van.v1" xmlns="http://docs.oasis-open.org/odata/ns/edm">
             <Annotations Target="cds_zma0_sfut_plant_data.PlantDataSetType/Delete_mc">
                 <Annotation Term="UI.Hidden"/>
             </Annotations>

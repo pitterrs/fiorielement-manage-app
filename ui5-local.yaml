@@ -29,7 +29,7 @@ server:
     beforeMiddleware: fiori-tools-proxy
     configuration:
       service:
-        urlBasePath: /sap/opu/odata/sap/ZMA0_SFUT_PLANT_DATA_UI_O2
+        urlBasePath: /sap/opu/odata/sap/ZMA0_SFUT_PLANT_UI_O2
         name: ''
         metadataXmlPath: ./webapp/localService/metadata.xml
         mockdataRootPath: ./webapp/localService/mockdata

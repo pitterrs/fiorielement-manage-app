@@ -8,7 +8,7 @@
     <edmx:Reference Uri="https://sap.github.io/odata-vocabularies/vocabularies/Communication.xml">
         <edmx:Include Namespace="com.sap.vocabularies.Communication.v1" Alias="Communication"/>
     </edmx:Reference>
-    <edmx:Reference Uri="/sap/opu/odata/sap/ZMA0_SFUT_PLANT_DATA_UI_O2/$metadata">
+    <edmx:Reference Uri="/sap/opu/odata/sap/ZMA0_SFUT_PLANT_UI_O2/$metadata">
         <edmx:Include Namespace="cds_zma0_sfut_plant_data"/>
     </edmx:Reference>
     <edmx:DataServices>

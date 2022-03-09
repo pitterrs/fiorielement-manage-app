@@ -15,21 +15,21 @@
         "resources": "resources.json",
         "dataSources": {
             "mainService": {
-                "uri": "/sap/opu/odata/sap/ZMA0_SFUT_PLANT_DATA_UI_O2/",
+                "uri": "/sap/opu/odata/sap/ZMA0_SFUT_PLANT_UI_O2/",
                 "type": "OData",
                 "settings": {
                     "annotations": [
-                        "ZMA0_SFUT_PLANT_DATA_UI_O2_VAN",
+                        "ZMA0_SFUT_PLANT_UI_O2_VAN",
                         "annotation"
                     ],
                     "localUri": "localService/metadata.xml"
                 }
             },
-            "ZMA0_SFUT_PLANT_DATA_UI_O2_VAN": {
-                "uri": "/sap/opu/odata/IWFND/CATALOGSERVICE;v=2/Annotations(TechnicalName='ZMA0_SFUT_PLANT_DATA_UI_O2_VAN',Version='0001')/$value/",
+            "ZMA0_SFUT_PLANT_UI_O2_VAN": {
+                "uri": "/sap/opu/odata/IWFND/CATALOGSERVICE;v=2/Annotations(TechnicalName='ZMA0_SFUT_PLANT_UI_O2_VAN',Version='0001')/$value/",
                 "type": "ODataAnnotation",
                 "settings": {
-                    "localUri": "localService/ZMA0_SFUT_PLANT_DATA_UI_O2_VAN.xml"
+                    "localUri": "localService/ZMA0_SFUT_PLANT_UI_O2_VAN.xml"
                 }
             },
             "annotation": {

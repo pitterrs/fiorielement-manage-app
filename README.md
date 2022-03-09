@@ -7,7 +7,7 @@
 |**Generation Platform**<br>SAP Business Application Studio|
 |**Floorplan Used**<br>List Report Object Page V2|
 |**Service Type**<br>SAP System (ABAP On Premise)|
-|**Service URL**<br>https://ecc20fc2-93b9-4b64-ae23-bcf39405ffbe.abap.us10.hana.ondemand.com/sap/opu/odata/sap/ZMA0_SFUT_PLANT_DATA_UI_O2/
+|**Service URL**<br>https://ecc20fc2-93b9-4b64-ae23-bcf39405ffbe.abap.us10.hana.ondemand.com/sap/opu/odata/sap/ZMA0_SFUT_PLANT_UI_O2/
 |**Module Name**<br>plant-app|
 |**Application Title**<br>Plants Maintenance|
 |**Namespace**<br>com.deere.sfut|
