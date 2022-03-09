@@ -14,7 +14,7 @@
   ],
   "role-templates": [
     {
-      "name": "Token_Exchange",
+      "name": "SFUT_PlantApp",
       "description": "UAA",
       "scope-references": [
         "uaa.user",
